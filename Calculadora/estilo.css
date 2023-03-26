@@ -1,0 +1,91 @@
+body{
+    background-color: #A67458;
+}
+.Titulo1{
+    font-size:xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.borda{
+    margin-top: 3%;
+    border: solid;
+    width: 30%;
+    margin-left: 33%;
+    border-width: 6px;
+    border-radius: 20px;
+    border-color: #40352C;
+    background-color:#8C6954;
+}
+.notas{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 110%;
+}
+.caixa{
+    background-color:#8C6954;
+    color: black;
+    border: solid;
+    border: #8C6954;
+    width: 17%;
+    background-color:#8C6954;
+}
+.linha{
+    width: 65%;
+    margin-left: 20%;
+}
+.botao{
+    margin-left: 39%;
+    margin-bottom: 2%;
+    font-size: 35px;
+    border-radius: 12px;
+    background-color: #40352C;
+    color: #A66A5D;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.borda2{
+    margin-top: 3%;
+    border: solid;
+    width: 30%;
+    margin-left: 33%;
+    border-width: 6px;
+    border-radius: 20px;
+    border-color: #40352C;
+    background-color:#8C6954;
+}
+.resultado{
+    font-size:x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.media{
+    margin-top: 3%;
+    margin-left: 15%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 110%;
+    /* background-color:brown; */
+    width: 55%;
+    float:left;
+}
+.valor{
+    /* background-color: aqua;  */
+    margin-top: 3%;
+    width: 85%;
+    margin-left: 1% ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.text{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    font-size: 140%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.reprovado{
+    color: red;
+}
+.recuperacao{
+    color:darkgreen;
+}
+.aprovado{
+    color: blue;
+}
